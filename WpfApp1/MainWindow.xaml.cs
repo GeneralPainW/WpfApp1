@@ -159,14 +159,14 @@ namespace WpfApp1
 
         private void RadioButton_Checked(object sender, RoutedEventArgs e)
         {
-            media.SpeedRatio = 0.5;
-            pbSpeed.Value = 1;
+            //media.SpeedRatio = 0.5;
+            //pbSpeed.Value = 1;
         }
 
         private void RadioButton_Checked_1(object sender, RoutedEventArgs e)
         {
-            media.SpeedRatio = 1;
-            pbSpeed.Value = 2;
+            //media.SpeedRatio = 1;
+            //pbSpeed.Value = 2;
         }
 
         private void RadioButton_Checked_2(object sender, RoutedEventArgs e)
